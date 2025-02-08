@@ -5,10 +5,15 @@
 To obtain the dataset, please send an email to zhangtingting@hhu.edu.cn. Your email MUST be sent from a valid university account and should include the following information:
 
 Subject: Application to Download the NTED Database
+
 Name:
+
 Affiliation:
+
 Department:
+
 Position:
+
 Email:
 
 I confirm that this database will be used solely for research purposes. I will not share any part of this database with third parties, nor will I sell or profit from any part of it.
