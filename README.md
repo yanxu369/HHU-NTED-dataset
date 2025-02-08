@@ -11,4 +11,4 @@ Department:
 Position:
 Email:
 
-I have read and agree to the terms and conditions specified on the DFEW facial expression database webpage. I confirm that this database will be used solely for research purposes. I will not share any part of this database with third parties, nor will I sell or profit from any part of it.
+I confirm that this database will be used solely for research purposes. I will not share any part of this database with third parties, nor will I sell or profit from any part of it.
